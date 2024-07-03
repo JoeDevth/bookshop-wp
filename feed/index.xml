@@ -10,7 +10,7 @@
 <channel>
 	<title>Knowledge Shop</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<link>/</link>
 	<description></description>
 	<lastBuildDate>Thu, 20 Jun 2024 15:55:29 +0000</lastBuildDate>
 	<language>th</language>
@@ -23,7 +23,7 @@
 <image>
 	<url>/wp-content/uploads/2024/07/280500456_101931432525182_8768177924753997414_n.jpg</url>
 	<title>Knowledge Shop</title>
-	<link></link>
+	<link>/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -37,9 +37,12 @@
 				<category><![CDATA[ไม่มีหมวดหมู่]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[ยินดีต้อนรับสู่ WordPress นี่คือเรื่องแรกของคุณ แก้ไขหร [&#8230;]]]></description>
+					<description><![CDATA[<p>ยินดีต้อนรับสู่ WordPress นี่คือเรื่องแรกของคุณ แก้ไขหร [&#8230;]</p>
+<p>The post <a href="/2024/06/20/hello-world/">สวัสดีชาวโลก &#8211; -&#8216;</a> appeared first on <a href="">Knowledge Shop</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>ยินดีต้อนรับสู่ WordPress นี่คือเรื่องแรกของคุณ แก้ไขหรือลบทิ้งไป แล้วมาเริ่มเขียนกัน!</p>
+<p>The post <a href="/2024/06/20/hello-world/">สวัสดีชาวโลก &#8211; -&#8216;</a> appeared first on <a href="">Knowledge Shop</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2024/06/20/hello-world/feed/</wfw:commentRss>
