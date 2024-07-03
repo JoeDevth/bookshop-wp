@@ -13,12 +13,20 @@
 	<link></link>
 	<description></description>
 	<lastBuildDate>Thu, 20 Jun 2024 15:55:29 +0000</lastBuildDate>
-	<language>en-US</language>
+	<language>th</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.5</generator>
+
+<image>
+	<url>/wp-content/uploads/2024/07/280500456_101931432525182_8768177924753997414_n.jpg</url>
+	<title>admin &#8211; Knowledge Shop</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>สวัสดีชาวโลก &#8211; -&#8216;</title>
 		<link>/2024/06/20/hello-world/</link>
@@ -29,7 +37,7 @@
 				<category><![CDATA[ไม่มีหมวดหมู่]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[ยินดีต้อนรับสู่ WordPress นี่คือเรื่องแรกของคุณ แก้ไขหรือลบทิ้งไป แล้วมาเริ่มเขียนกัน!]]></description>
+					<description><![CDATA[ยินดีต้อนรับสู่ WordPress นี่คือเรื่องแรกของคุณ แก้ไขหร [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>ยินดีต้อนรับสู่ WordPress นี่คือเรื่องแรกของคุณ แก้ไขหรือลบทิ้งไป แล้วมาเริ่มเขียนกัน!</p>
 ]]></content:encoded>
